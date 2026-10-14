@@ -25,7 +25,7 @@ Score each dimension **0 = misleading/missing**, **1 = partially adequate**, **2
 
 | Dimension | Score for synthetic answer | Justification |
 | --- | ---: | --- |
-| Factual accuracy | 0 | Five strong claims conflict with source inspection |
+| Factual accuracy | 0 | Multiple claims conflict with source inspection |
 | Verifiability and citations | 0 | No file or code references supplied |
 | Prerequisites and reproducibility | 1 | Commands supplied; GitHub API dependency omitted |
 | Audience clarity and task relevance | 1 | Concise setup, but dangerous assurances |
