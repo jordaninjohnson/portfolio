@@ -1,19 +1,20 @@
 # Candidate-reported technical writing and document review
 
-**Updated:** October 13, 2026. **Evidence classification:** candidate-reported responsibilities, not independently audited work samples or a verified count of qualifying years.
+**Updated:** October 13, 2026. **Evidence classification:** candidate-reported responsibilities and timeline, not independently audited work samples or verified employer records.
 
 ## Documentation responsibilities reported by Jordan
 
-Jordan reports regularly working on:
+Jordan reports that the following have been **substantial, recurring writing/documentation responsibilities from 2021 to the present (more than five years as of October 2026)**:
 - Standard operating procedures (SOPs)
 - Training guides
 - Desk manuals
 - Troubleshooting instructions
 - Technical project summaries
-- Policy Review Committee activities
 - Other ongoing professional documentation
 
-This statement reflects the candidate's direct report; the underlying workplace documents have **not** been published or independently checked. The precise years, frequency, audience, individual authorship/editorial role, and specific Policy Review Committee responsibilities still need confirmation.
+He also reports **Policy Review Committee work**; its start date, specific review duties, and individual editorial contribution have not yet been documented.
+
+This 2021–present timeline and characterization come directly from the candidate. They support an application claim of **five-plus years of substantial, recurring documentation work**—not necessarily five-plus years holding the job title “technical writer.” The underlying workplace documents have **not** been published or independently checked. Exact start month, typical writing frequency, audience, individual authorship/editorial examples, and specific Policy Review Committee duties can still strengthen the evidence.
 
 ## Relevance to technical-writing roles
 
@@ -23,7 +24,7 @@ This statement reflects the candidate's direct report; the underlying workplace 
 | Editing and voice for different audiences | Policy Review Committee work; guides and technical project summaries | Specific editing decisions, readers, and before/after examples |
 | Technical accuracy and relevance | Troubleshooting instructions, procedural updates, IT operations | One independently verified technical walkthrough |
 | Written-guideline discipline | SOPs and committee-related document work | A specific policy-review or document-control example |
-| At least two qualifying years | Regular writing responsibilities reported, with employment history in operational roles | Start/end years and typical writing frequency; **not yet verified** |
+| At least two qualifying years | Candidate reports substantial recurring technical documentation since **2021 (five-plus years)** | Self-reported timeline supports a plausible related-writing qualification; third-party verification and employer classification remain open |
 | Professional discretion | Employer and operational work involving internal processes | Interview example that shares no restricted details |
 
 ## Existing independent context
@@ -34,6 +35,6 @@ This statement reflects the candidate's direct report; the underlying workplace 
 
 ## Attribution and sharing limits
 
-This professional-evidence inventory was compiled with ChatGPT from the candidate's report and previous resume materials. It is **not** a writing sample independently produced by Jordan, proof of a specific qualification period, or evidence of paid AI evaluation. No real employer policy texts, desk manuals, training files, internal SOPs, contact information, or confidential project data are included. Verification of personally authored work remains an explicit follow-up.
+This professional-evidence inventory was compiled with ChatGPT from the candidate's report and previous resume materials. It is **not** a writing sample independently produced by Jordan, independent proof of the claimed qualification period, or evidence of paid AI evaluation. No real employer policy texts, desk manuals, training files, internal SOPs, contact information, or confidential project data are included. Verification of personally authored work remains an explicit follow-up.
 
-**Next validation task:** Jordan should date at least one recurring writing responsibility (month/year started and whether it continues), give approximate weekly/monthly frequency, name typical reader groups, and identify a sample he can describe or share with permission. Do not equate total employment duration with qualifying writing experience.
+**Next validation task:** Jordan should specify the approximate start month in 2021, typical weekly/monthly writing frequency, audiences, and at least one independently written sample he can describe or share with permission. Do not equate total employment duration with qualifying writing experience.
